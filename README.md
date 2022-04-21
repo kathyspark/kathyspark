@@ -25,6 +25,6 @@ I really enjoy and have fun learning new stuff!
 - Figma
 
 <!--[![Kathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathyspark)](https://github.com/kathyspark/github-readme-stats) widthout icons-->
-![Kathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathyspark&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathyspark&layout=compact)](https://github.com/kathyspark/github-readme-stats)
+![Kathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathyspark&show_icons=true&theme=synthwave)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kathyspark&show_owner&repo=github-readme-stats)](https://github.com/kathyspark/js-course) -->
