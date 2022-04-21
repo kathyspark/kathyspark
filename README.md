@@ -26,7 +26,7 @@ I really enjoy and have fun learning new stuff!
 
 <!--[![Kathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathyspark)](https://github.com/kathyspark/github-readme-stats) widthout icons-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathyspark&layout=compact)](https://github.com/kathyspark/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathyspark&layout=compact&theme=prussian)](https://github.com/kathyspark/github-readme-stats)
 
-![Kathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathyspark&show_icons=true&theme=synthwave)
+![Kathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathyspark&show_icons=true&theme=prussian)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kathyspark&show_owner&repo=github-readme-stats)](https://github.com/kathyspark/js-course) -->
