@@ -1,6 +1,6 @@
 ## Hello! I'm Kathy 👋
 
-### I'm a self-taught JS Programmer
+### I'm starting my journey as a Software Developer
 
 <!--
 **kathyspark/kathyspark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,20 +8,20 @@
 I really enjoy and have fun learning new stuff!
 
 - 🔭 I’m currently working on projects by myself
-- 🌱 I’m currently learning PHP
-- 👯 I’m looking to collaborate on many projects that allow me improve my coding skills
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on small projects to master my coding skills
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: [Twitter](https://https://twitter.com/kathyspark)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm from Colombia
+- ⚡ Fun fact: I'm from Colombia, LATAM
 
 ### Here are some of the skills that I currently know
 
 - HTML/CSS
 - Sass
-- JavaScript
-- Git
+- JavaScript (beginner)
+- Git (beginner)
 - Figma
 
 <!--[![Kathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathyspark)](https://github.com/kathyspark/github-readme-stats) widthout icons-->
