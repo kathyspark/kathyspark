@@ -5,7 +5,7 @@
 <!--
 **kathyspark/kathyspark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I really enjoy and have fun learning new stuff!
+I've been almost a year learning and practicing Web Development by myself and I hope I can learn even more!
 
 - 🔭 I’m currently working on projects by myself
 - 🌱 I’m currently learning JavaScript
