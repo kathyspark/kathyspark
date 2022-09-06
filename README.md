@@ -14,7 +14,7 @@ I've been almost a year learning and practicing Web Development by myself and I 
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: [Twitter](https://https://twitter.com/kathyspark)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm from Colombia, LATAM
+- ⚡ Fun fact: I adore the music from the 60's
 
 ### Here are some of the skills that I currently know
 
